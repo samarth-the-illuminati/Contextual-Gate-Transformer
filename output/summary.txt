@@ -1,0 +1,3 @@
+This makes it attractive for offline summarization on laptops and edge devices.
+A Mamba layer can then model sentence order and long-range dependencies.
+For an undergraduate project, extractive summarization is a practical first step.

@@ -1,0 +1,22 @@
+Phase 2: Transformer + MMR baseline
+
+Model:
+sentence-transformers/all-MiniLM-L6-v2
+
+Input:
+data/samples/sample1.txt
+
+Number of summary sentences:
+3
+
+Output:
+The model generated three relevant and non-redundant sentences.
+
+Current features:
+- Transformer semantic embeddings
+- TF-IDF keyword relevance
+- Sentence position
+- MMR redundancy reduction
+
+Mamba:
+Not yet integrated. Mamba will be added in Phase 3.

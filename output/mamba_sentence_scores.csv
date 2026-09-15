@@ -1,0 +1,8 @@
+sentence_index,sentence,mamba_score,semantic_score,keyword_score,position_score,combined_score,selected
+0,﻿Artificial intelligence is changing how students study and process documents.,0.40316188,0.2229698,0.0033133798,1.0,0.29734612,False
+1,Long reports are difficult to read because important information is distributed across many pages.,0.2542931,0.6238686,0.27868316,0.9166667,0.37843886,False
+2,Offline summarization allows users to summarize private documents without sending data to a cloud server.,0.47701406,0.3617284,1.0,0.8333333,0.49072036,True
+3,Transformer models provide strong semantic representations for sentences.,0.5338016,0.6183934,0.0,0.75,0.41642892,True
+4,Mamba models can process long sequences efficiently using state-space modeling.,0.25030696,0.0,0.7597309,0.6666666,0.26823372,False
+5,A hybrid Transformer-Mamba system can combine semantic understanding with efficient document-level sequence processing.,1.0,1.0,0.9906759,0.5833334,0.8069348,True
+6,Redundancy-aware sentence selection can make the final summary shorter and more informative.,0.0,0.6614149,0.5387477,0.5,0.2961659,False

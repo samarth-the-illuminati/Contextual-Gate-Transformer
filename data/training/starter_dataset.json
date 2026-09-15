@@ -1,0 +1,27 @@
+[
+  {
+    "id": "doc_1",
+    "document": "Artificial intelligence is changing how students study and process documents. Long reports are difficult to read because important information is distributed across many pages. Offline summarization allows users to summarize private documents without sending data to a cloud server. Transformer models provide strong semantic representations for sentences. Mamba models can process long sequences efficiently using state-space modeling. A hybrid Transformer-Mamba system can combine semantic understanding with efficient document-level sequence processing. Redundancy-aware sentence selection can make the final summary shorter and more informative.",
+    "summary": "Offline summarization protects document privacy. A hybrid Transformer-Mamba system combines semantic understanding with efficient long-document processing. Redundancy-aware selection produces more informative summaries."
+  },
+  {
+    "id": "doc_2",
+    "document": "Online learning platforms give students access to lectures, assignments, quizzes, and discussion forums. Students often receive long study materials before examinations. Reading every page can be time consuming when several subjects must be prepared together. An offline text summarizer can identify the main points of notes and academic reports. Local processing can be useful when internet access is limited or when students do not want to upload private notes. A lightweight model should run on an ordinary laptop with limited memory and CPU resources.",
+    "summary": "Students need tools to process long study materials efficiently. An offline summarizer can identify key points without uploading private notes. A lightweight system should run on an ordinary laptop."
+  },
+  {
+    "id": "doc_3",
+    "document": "Cloud computing provides computing resources such as servers, storage, databases, and software over the internet. Organizations can scale resources according to demand instead of purchasing all hardware in advance. Public cloud services are shared across multiple customers, while private cloud infrastructure is dedicated to one organization. Cloud systems can reduce upfront infrastructure cost but require careful attention to security, privacy, and service availability. Hybrid cloud environments combine public and private resources for flexibility.",
+    "summary": "Cloud computing delivers scalable computing resources over the internet. Organizations must consider security, privacy, and availability. Hybrid clouds combine public and private resources."
+  },
+  {
+    "id": "doc_4",
+    "document": "Software engineering is the systematic process of designing, developing, testing, and maintaining software applications. Requirements analysis helps teams understand what users need before implementation begins. Designers create software architecture and interface plans to guide development. Testing checks whether the system works correctly and satisfies functional requirements. Maintenance continues after deployment because software must be updated to fix defects, improve performance, and support changing user needs.",
+    "summary": "Software engineering covers requirements analysis, design, development, testing, and maintenance. Testing verifies that the system satisfies requirements. Maintenance supports updates and defect fixes after deployment."
+  },
+  {
+    "id": "doc_5",
+    "document": "Database management systems store, organize, and retrieve information for applications. A relational database uses tables with rows and columns to represent structured data. SQL is used to create tables, insert records, query data, and control access. Primary keys uniquely identify records, while foreign keys create relationships between tables. Indexes can improve query performance but may increase storage and update cost. Database backups are important for recovering data after accidental deletion, hardware failure, or security incidents.",
+    "summary": "Relational databases store structured data in tables and are managed using SQL. Keys define record identity and relationships. Indexes improve query performance, while backups protect against data loss."
+  }
+]

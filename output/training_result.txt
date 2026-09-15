@@ -1,0 +1,21 @@
+Mamba Sentence Ranker Training Result
+
+Dataset:
+data/training/starter_dataset.json
+
+Training setup:
+- Sentence encoder: all-MiniLM-L6-v2
+- Mamba hidden dimension: 128
+- Epochs: 30
+- Learning rate: 0.001
+- Loss function: BCEWithLogitsLoss
+- Training device: CPU
+
+Training result:
+- Initial average loss: 0.4765
+- Final average loss: 0.0002
+- Saved checkpoint: models/mamba_ranker.pt
+- Checkpoint size: 0.42 MB
+
+Verification:
+The Mamba–Transformer summarizer successfully loaded the trained checkpoint and generated an extractive summary.

@@ -1,0 +1,13 @@
+nltk
+pandas
+scikit-learn
+streamlit
+sentence-transformers
+PyMuPDF
+torch
+spacy
+en_core_web_sm
+evaluate
+rouge-score
+psutil
+datasets

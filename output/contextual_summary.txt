@@ -1,0 +1,3 @@
+Offline summarization allows users to summarize private documents without sending data to a cloud server.
+Transformer models provide strong semantic representations for sentences.
+A hybrid Transformer-Mamba system can combine semantic understanding with efficient document-level sequence processing.

@@ -1,0 +1,4 @@
+summary_sentence
+Offline summarization allows users to summarize private documents without sending data to a cloud server.
+A hybrid Transformer-Mamba system can combine semantic understanding with efficient document-level sequence processing.
+Redundancy-aware sentence selection can make the final summary shorter and more informative.
